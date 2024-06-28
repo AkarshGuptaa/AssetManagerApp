@@ -95,11 +95,11 @@ pip install openpyxl tkcalendar
 
 - **Light Theme:**
 
-  ![Light Theme](path_to_light_theme_screenshot.png) <!-- Replace with actual path -->
+  ![Light Theme](light_theme_screenshot.png) <!-- Replace with actual path -->
 
 - **Dark Theme:**
 
-  ![Dark Theme](path_to_dark_theme_screenshot.png) <!-- Replace with actual path -->
+  ![Dark Theme](dark_theme_screenshot.png) <!-- Replace with actual path -->
 
 ## Technical Details
 
