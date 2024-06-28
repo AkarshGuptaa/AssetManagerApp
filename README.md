@@ -145,6 +145,8 @@ We welcome contributions to enhance Asset Manager. To contribute:
 4. **Push to the branch (`git push origin feature-branch`).**
 5. **Create a new Pull Request.**
 
+### Download Theme .tcl files from https://github.com/rdbende/Forest-ttk-theme
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
